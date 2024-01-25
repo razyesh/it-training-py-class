@@ -7,3 +7,6 @@
 # Enter num1, Enter num2 -> 
 
 # Check whats new in Python - theory 
+
+print("called")
+

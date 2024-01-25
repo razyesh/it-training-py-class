@@ -24,3 +24,6 @@ while user_input == "y":
     user_input = input("Do you want to give us your email: ")
 else:
     print(user_detail)
+
+
+    

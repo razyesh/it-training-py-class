@@ -1,0 +1,1 @@
+print("from assign2")
